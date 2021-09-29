@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap'); */
+body {
+  margin: 0;
+  font-family: 'Roboto';
+  background-color: lavender;
+}
+
+.papir {
+  margin: 6px;
+  padding: 6px;
+  align-content: center;
+}
+
+.forma {
+  margin: 1px;
+}
+
+.gridReg {
+  position: absolute;
+  left: 30%;
+  right: 50%;
+  width: 600px;
+  height: 300px;
+}
+
+.gridLog {
+  position: absolute;
+  left: 30%;
+  right: 50%;
+  width: 600px;
+  height: 300px;
+}
+
+.gridHome {
+  position: absolute;
+  left: 10%;
+  right: 10%;
+  width: 300px;
+  height: 300px;
+}
+
+.appBar {
+  align-items: center;
+}
+
+.appBar2{
+  align-items: flex-end;
+}
