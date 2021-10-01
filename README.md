@@ -1,4 +1,4 @@
-# projekt-oarwa
+# Web application
 
 This application's purpose is to track series that you watched simply by adding them and clicking on a button. 
 
